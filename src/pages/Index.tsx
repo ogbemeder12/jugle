@@ -282,7 +282,7 @@ const Index = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
           <div className="text-center mb-12">
             <img
-              src="/signup-logo.PNG"
+              src="/signup-logo.png"
               alt="Description"
               className="w-48 h-24"
             />
